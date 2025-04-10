@@ -4,3 +4,6 @@ description: A tutorial site.
 
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache            # Required by minimal-mistakes theme
