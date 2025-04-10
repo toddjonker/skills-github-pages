@@ -1,4 +1,6 @@
 title: First Pages
 author: TVJ
 description: A tutorial site.
-theme: minima
+
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
